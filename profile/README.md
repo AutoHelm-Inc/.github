@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](image-3.png)
+![alt text](image-14.png)
 ### AutoHelm
 A platform made for anyone to automate anything, with a simple drag-and-drop interface.
 
